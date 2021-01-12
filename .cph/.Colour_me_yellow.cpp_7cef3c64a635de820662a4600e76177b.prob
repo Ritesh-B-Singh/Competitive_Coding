@@ -1,0 +1,1 @@
+{"name":"Local: Colour_me_yellow","url":"d:\\github-repo\\Competitive_Coding\\Colour_me_yellow.cpp","tests":[{"id":1610350157306,"input":"3\n4 3 3 4\n4 4 1 4\n2 4 1 4","output":"3\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\github-repo\\Competitive_Coding\\Colour_me_yellow.cpp","group":"local","local":true}
