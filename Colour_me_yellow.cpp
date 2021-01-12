@@ -27,6 +27,9 @@ void solve()
 
 int main()
 {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    
     ll t, n, r, g, b;
     cin >> t;
     while (t--)
